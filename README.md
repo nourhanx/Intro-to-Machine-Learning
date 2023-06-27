@@ -1,2 +1,2 @@
-# Intro-to-Machine-Learning
-Solved Intro to Machine Learning course exercises on kaggle.
+# Machine-Learning-Intro-and-Intermediate
+Solved Machine Learning Intro and Intermediate courses exercises on kaggle.
